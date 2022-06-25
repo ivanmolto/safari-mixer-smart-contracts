@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project builds an **unlimited**, **dynamic**, and **random** (with different chances)generated NFT collection minter smart contract.
+This project builds an **unlimited**, **dynamic**, and **random** (with different chances) generated NFT collection minter smart contract.
 
 Dynamic based on the price of MATIC (binary value based on 1 MATIC >= 1 USD or 1 MATIC < 1 USD).
 
