@@ -11,6 +11,7 @@ Chances are for random are:
 
 For these animals: TORTOISE, FROG, LIZARD, CHICKEN, DUCK, FLAMINGO, BUNNY, SHEEP, CAT, DOG,  PIG, ANTELOPE, FOX, GIRAFFE, OSTRICH, HYENA, CROCODILE, GORILLA, BUFFALO, HIPPO, RHINO,ELEPHANT, PUMA, LEOPARD, TIGER, LION, DINOSAUR, AND UNICORN.
 
+
 ## Smart contract address (Verified)
 
 Contract address: 0x95B4f2897B96e94Ce73aAF1298EaE00Bd01defCb
@@ -25,6 +26,7 @@ And scripts with task implementations:
 - 00-deploy-mocks.js
 - 01-deploy-nft.js
 - 02-mint.js
+
 
 ## Setup
 
@@ -45,9 +47,11 @@ To deploy run in the terminal the following command:
 To mint run in the terminal the following command:
 `npx hardhat deploy --tags mint --network polygonMumbai`
 
+
 ## OpenSea collection
 
 See NFT collection in OpenSea [here](https://testnets.opensea.io/collection/safarimixernft-utqeajd6wk)
+
 
 ## Images
 
@@ -65,6 +69,11 @@ As a method to secure randomness for the smart contract getting the images and i
 - "@chainlink/contracts/src/v0.8/interfaces/VRFCoordinatorV2Interface.sol"
 
 Created also the subscription 728 [see here](https://vrf.chain.link/mumbai)
+
+
+## License
+
+The code is licensed under a MIT License.
 
 
 
