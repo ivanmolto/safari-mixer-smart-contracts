@@ -58,7 +58,7 @@ See NFT collection in OpenSea [here](https://testnets.opensea.io/collection/safa
 All images and token URIs are stored in IPFS (used Pinata.cloud) 
 
 
-## Chainlink Data Feed and Verifiable Randomness Function
+## Chainlink Data Feed and Verifiable Random Function
 
 Used Polygon (Matic) Data Feed: 
 - MATIC / USD [see here](https://mumbai.polygonscan.com/address/0xd0D5e3DB44DE05E9F294BB0a3bEEaF030DE24Ada) for getting the NFT images dynamically and imported "@chainlink/contracts/src/v0.8/interfaces/AggregatorV3Interface.sol"
